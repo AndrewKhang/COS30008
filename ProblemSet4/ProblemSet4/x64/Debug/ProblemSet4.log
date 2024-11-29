@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\COS30008\ProblemSet4\BinaryTreeNode.h(112,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\COS30008\ProblemSet4\BinaryTreeNode.h(112,25): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\COS30008\ProblemSet4\BinaryTreeNode.h(113,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\COS30008\ProblemSet4\BinaryTreeNode.h(113,26): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  ProblemSet4.vcxproj -> D:\COS30008\ProblemSet4\x64\Debug\ProblemSet4.exe
